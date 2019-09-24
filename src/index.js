@@ -27,7 +27,7 @@ const sortObjectArray = (objectArray, key, reverse = false) => {
 
     return [...objectArray].sort(sortingFunctions[type](key));
   } catch (error) {
-    return copy;
+    return objectArray;
   }
 };
 
