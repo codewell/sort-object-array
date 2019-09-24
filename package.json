@@ -1,0 +1,23 @@
+{
+  "name": "@codewell/sort-object-array",
+  "version": "1.0.0",
+  "description": "Sort an array with objects in JavaScript based on keys",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/sort-object-array.git"
+  },
+  "keywords": [],
+  "author": "Filip Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/sort-object-array/issues"
+  },
+  "homepage": "https://github.com/codewell/sort-object-array#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
